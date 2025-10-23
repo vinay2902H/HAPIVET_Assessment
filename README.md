@@ -1,4 +1,4 @@
-# HAPIVET_Assessment
+# HAPIVET_Assessment (Team-EZ)
 
 **CNN-based Veterinary Animal Disease Detection**
 
