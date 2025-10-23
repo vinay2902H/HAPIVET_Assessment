@@ -4,7 +4,7 @@
 
 
 
-
+1
 **1.Problem Statement**
 
 Animals can suffer from various diseases that are hard to identify visually by owners.
@@ -37,7 +37,6 @@ test/
 
 
 **5. CNN Code**
-# See attached code at the end for training and prediction in Colab.
 (Training, saving, loading model, prediction with advice.)
 6. Results
 - Accuracy on validation: 0.67
@@ -54,6 +53,8 @@ a vet for antifungal treatment.'
 
 
 
+
+2
 
 
 DOG CONDITION ANALYZER 
